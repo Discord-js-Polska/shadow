@@ -1,0 +1,17 @@
+{
+  "name": "shadow-mengament",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "nodemon": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.5",
+    "nodemon": "^2.0.4"
+  }
+}

@@ -10,3 +10,6 @@ milego dnia
 
 
  nie jestesmy autorami tych plikow
+
+
+oraz jak powiedzialem w package json nie ma licencji oraz authora wiec pozderki
